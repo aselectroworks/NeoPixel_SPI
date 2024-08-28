@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For MIDIUSB_ESP32
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+NeoPixel_SPI	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin		    KEYWORD2
+end		        KEYWORD2
+setPixel		KEYWORD2
+show		    KEYWORD2
+setFrequency	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
